@@ -8,8 +8,6 @@ public class Calc {
 	public void difference(int n3, int n4) {
 		System.out.println("Difference= "+(n3-n4));
 	}
-	public void product(int n3, int n4) {
-		System.out.println("multiply= "+(n3*n4));
-	}
+	
 	
 }
